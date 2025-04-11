@@ -2,9 +2,9 @@
 {
   "type": "pageInfo",
   "kind": "pureOBJ",
-  "course_title": "Course",
-  "code": "course  code",
-  "session": "2023/2024",
+  "course_title": "Physics",
+  "code": "PHY 101.1",
+  "session": "2021/2022",
   "time": "2hours"
 },{
   "type": "Instruction",
