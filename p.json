@@ -1,0 +1,104 @@
+[
+{
+  "type": "pageInfo",
+  "kind": "pureOBJ",
+  "course_title": "Course",
+  "code": "course  code",
+  "session": "2023/2024",
+  "time": "2hours"
+},{
+  "type": "Instruction",
+  "content": ["Answer all the questions", "You have 2 hours to finish this exam"]
+},
+{
+  "type": "heading",
+  "heading": "Section A",
+  "Subheading": "Answer all the questions."
+}, {
+  "type": "Question",
+  "name": "Question 1",
+  "question": "What is my name?",
+  "Q_type": "OBJ",
+  "options": ["Believe", "Alex", "John", "Hope"],
+  "Answer_Type": "text",
+  "Answer_Content": "Believe"
+}, {
+  "type": "Question",
+  "name": "Question 2",
+  "question": "What is my name?",
+  "Q_type": "OBJ",
+  "options": ["Believe", "Alex", "John", "Hope"],
+  "Answer_Type": "text",
+  "Answer_Content": "Believe"
+}, {
+  "type": "Question",
+  "name": "Question 3",
+  "question": "What is my name?",
+  "Q_type": "OBJ",
+  "options": ["Believe", "Alex", "John", "Hope"],
+  "Answer_Type": "text",
+  "Answer_Content": "Believe"
+}, {
+  "type": "Question",
+  "name": "Question 4",
+  "question": "What is my name?",
+  "Q_type": "OBJ",
+  "options": ["Believe", "Alex", "John", "Hope"],
+  "Answer_Type": "text",
+  "Answer_Content": "Believe"
+},
+{
+  "type": "Question",
+  "name": "Question 5",
+  "question": "My country name is ____?",
+  "Q_type": "OBJ",
+  "options": ["Africa", "Nigeria", "US", "abia"],
+  "Answer_Type": "Text",
+  "Answer_Content": "Nigeria"
+},
+{
+  "type": "Question",
+  "name": "Question 6",
+  "question": "What is my surname name?",
+  "Q_type": "OBJ",
+  "options": ["Believe", "Osiaru", "John", "Robert"],
+  "Answer_Type": "text",
+  "Answer_Content": "Robert"
+},
+{
+  "type": "heading",
+  "heading": "Section B",
+  "Subheading": "Answer only one."
+},
+{
+  "type": "img",
+  "content": "a.png",
+  "alt": "Use the image above to answer question 7.",
+  "cation": "Use the image above to answer question 7."
+},
+{
+  "type": "Question",
+  "name": "Question 7",
+  "question": "What is my <u><b>name</b></u>?",
+  "Q_type": "OBJ",
+  "options": ["Believe", "Alex", "John", "Hope"],
+  "Answer_Type": "text",
+  "Answer_Content": "Believe"
+}, {
+  "type": "Question",
+  "name": "Question 8",
+  "question": "What is my name?",
+  "Q_type": "OBJ",
+  "options": ["Believe", "Alex", "John", "Hope"],
+  "Answer_Type": "text",
+  "Answer_Content": "Believe"
+}, {
+  "type": "Question",
+  "name": "Question 9",
+  "question": "What is my name?",
+  "Q_type": "OBJ",
+  "options": ["Believe", "Alex", "John", "Hope"],
+  "Answer_Type": "text",
+  "Answer_Content": "Believe"
+}
+]
